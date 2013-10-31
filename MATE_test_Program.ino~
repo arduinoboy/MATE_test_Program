@@ -12,8 +12,6 @@ pinMode(7,OUTPUT); // Pin 7
 pinMode(8,OUTPUT); // Pin 8
 pinMode(9,OUTPUT); // Pin 9
 
-// Sets all LEDs off
-
 digitalWrite(2,HIGH);
 digitalWrite(3,HIGH);
 digitalWrite(4,HIGH);
